@@ -1,6 +1,9 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background: url(gallery/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .navbar {
@@ -38,3 +41,4 @@ ul {
 #gallery_text{
     text-align: center;
 }
+
